@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning . express.js<br>🎯 Goals: Want to get job or inter in 2025 for 3 to 6 months<br>🎲 Fun fact:: My first line of code was not "Hello World!"<br>😀I love to read books, draw pictures, and play football in my free time.</p>
+<p align="left">📚 I'm currently learning . next.js & typescript<br>🎯 Goals: My goal is to become a full stack developer.<br>🎲 Fun fact:: My first line of code was not "Hello World!"<br>😀I love to read books, draw pictures, and play football in my free time.</p>
 
 ###
 
